@@ -1,0 +1,182 @@
+h1 {
+	font-size: 6em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 103%;
+}
+h2 {
+	font-size: 2em;
+}
+h3{
+	font-size: 2em;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+h4{
+	font-size: 2em;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+h5{
+	font-size: 2em;
+	margin-bottom: 2%;
+}
+h6{
+	font-size: 1.5em;
+	margin-bottom: 3%;
+}
+
+
+li{
+	margin-left: 1em;
+	margin-top: 1em;
+
+
+}
+
+
+img {
+	width: 40%;
+	display: block;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, th, td{
+	border-collapse: collapse;
+	border: 1px solid #000;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table{
+	width: 700px;
+	margin-bottom: 1%;
+}
+td{
+	width: 100px;
+	height: 100px;
+}
+th{
+	width: 100px;
+
+}
+
+body{
+	margin: 30px;
+	
+}
+
+
+ul{
+	list-style-type: square;
+}
+
+ol{
+	list-style-type: square;
+	margin-bottom: 2%;
+}
+
+form{
+	margin-bottom: 2%;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ca9797;
+    margin-bottom: 5%
+}
+
+.menu li {
+    float: left;
+    display: inline;
+	margin-left: 9em;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.menu li a:visited {
+	color: white;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.tot{
+	background-color: antiquewhite;
+	width: 32%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+}
+
+.menu p{
+	font-size: 2em;
+}
+
+p{
+	margin-bottom: 1%;
+}
+
+.spanbild {
+	width: 70px;
+}
+
+.kommentar{
+			background-color: antiquewhite;
+			text-align: left;
+			width: 20%;
+			margin-bottom: 2%;
+
+}
+
+.formstyle {
+    border: 3px solid #ca9797;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #ca9797;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.container {
+    padding: 16px;
+}
+
+.tabort{
+	margin-left: 78%;
+	
+}
+

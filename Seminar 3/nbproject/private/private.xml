@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>registerUser.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>11</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/view/recpIndex.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/deleteComment.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Integration/CommentHandler.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Model/User.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Integration/UserHandler.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/fragments/menuLogin.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Model/Comment.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/view/recpCalendar.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Util/Util.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/meatballs.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/pictures/pancakes.jpg</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Controller/Controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/fragments/menu.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/login.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/view/recpPancakes.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/makeComment.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/pictures/kottbullar1.jpg</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/classes/Recipies/Integration/DbAccess.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/pancakes.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/pictures/meat.jpg</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/pictures/pancake.jpg</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/passwordEncryption.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/userLogin.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/css/foodcss.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/view/recpLogin.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/sem3/resources/view/recpMeatballs.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,175 @@
+@import "reset.css";
+
+body {background-color: #f1f1f1;}
+
+p{font-family: Verdana, Geneva, sans-serif;
+  font-size: 0.85em;}
+
+p.Author{padding: 0.5em;}
+
+
+p.Comment{padding-left: 1em;
+          border-left: 5px solid orangered;}
+
+p.End{padding: 5em;
+      float: left;
+      clear: left;}
+
+div{font-family: Verdana, Geneva, sans-serif;
+    font-size: 0.85em;}
+
+div.form{border-radius: 5px;
+         padding: 20px;
+         border: 2px solid orangered;}
+
+
+input.delete[type=submit]{
+            width: 15%;
+            padding: 3px 2px;        
+}
+    
+form>input[type=submit] {
+                        width: 100%;
+                        background-color: orangered;
+                        color: black;
+                        padding: 14px 20px;
+                        margin: 8px 0;
+                        border: none;
+                        border-radius: 4px;
+}
+form>input.comments[type=submit]{
+                                width: 50%;
+                                 }
+
+input[type=submit]:hover {
+    background-color: orange;
+}
+
+
+
+form>input[type=password]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+form>input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+textarea{font-family: Verdana, Geneva, sans-serif;
+                    border: 2px solid orangered;
+}
+
+form>input.comments[type=text]{
+                       width: 50%;
+                       heigth: 15em;
+                     }
+
+h1 {font-family: Verdana, Geneva, sans-serif;
+    font-size: 2em;
+    text-align: left;
+    color: black;
+    padding: 1em;}
+
+h1.reglog{text-align: center;
+          font-size: 1.5em;}
+
+h1.Index {text-align: center;
+          font-size: 3em;
+          padding: 0.0em}
+
+div.Index>a>img {float: left;
+                width: 50%}
+
+h2 {font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.2em;
+    text-align: left;
+    padding: 1em;
+    color: black;}
+
+h2.Index{font-family: Verdana, Geneva, sans-serif;
+         text-align: center;
+         font-size: 2em;}
+
+h2.Calendar{text-align: center;}
+
+h2.Calendar>a{font-size: 1.5em;}
+
+
+ul {border-left: 5px solid orangered;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 0.85em;
+    background-color: #f1f1f1;
+    list-style-type: none;
+    padding: 10px 20px;}
+
+ol {border-left: 5px solid orangered;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #f1f1f1;
+    list-style: decimal;
+    padding: 10px 20px;}
+
+div.weekday, div.weekdayMon{float: left;
+        width: 7em; height: 3.5em;
+        background-color: white;
+        border-style: solid;
+        border-width: 2px;
+        text-align: center;}
+
+div.weekday>p, div.weekdayMon>p{position: relative;
+              top: 1.5em;}
+
+div.weekdayMon, div.datestart{margin-left: 23%;} 
+
+div.dates{float: left;
+         width: 7em; height: 7em;
+         background-color: white;
+         border-style: solid;
+         border-width: 2px;}
+
+div.datestart {float: left;
+              clear: left;
+              width: 7em; height: 7em;
+              background-color: white;
+              border-style: solid;
+              border-width: 2px;}
+
+div.picture>a>img {width: 95px}
+
+table {width: 100%;
+       margin-bottom: 1em;}
+
+
+table, th{height: 2em;
+          background-color: #ca9797;
+          text-align: center;
+          font-family: Verdana, Geneva, sans-serif;}
+
+th>a {position: relative;
+      top: 0.5em;}
+
+th.active{background-color: orange;}
+
+th>a:visited, th>a:link, h2.Index>a:link, h2.Index>a:visited {color: black;
+                   text-decoration: none;}
+
+th>a:hover, h2.Index>a:hover {color: white;
+         text-decoration: none;}
+
+div.comment{font-family: Verdana, Geneva, sans-serif;
+            width: 50%;
+            padding: 1em;
+            border: 1px solid orangered;}
+
+p.name{font-family: Verdana, Geneva, sans-serif;          
+          padding-top: 1em;}
+
