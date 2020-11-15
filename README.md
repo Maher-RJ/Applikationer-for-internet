@@ -1,14 +1,13 @@
 # Applikationer-for-internet
 
 ### Seminar 1
-Uppgiften för seminarium är att skapa en hemsida som kallas Tasty recipies. HTML och CSS-filer måste passera W3C valideringar. De webbsida måste se identiska med följande webbläsare: Internet Explorer, Chrome, firefox, safari.
+The task of the seminar is to create a website called Tasty recipies. HTML and CSS files must pass W3C validations. The web page must look identical to the following browsers: Internet Explorer, Chrome, firefox, safari.
 
 ### Seminar 2
-Uppgiften för detta seminarium är att skapa format för inloggning där man ska ha användare som ska kunna logga in. Varje användare skulle ha ett användarnamn och lösenord. Man skulle även skapa en kommentars box där bara de som är har en inloggning och är inloggade hade tillgång till att kommentera t.ex. receptsidorna. De ska även kunna radera sina kommentarer då de är inloggade.
+The task for this seminar is to create a format for login where you should have users who should be able to log in. Each user would have a username and password. You would also create a comment box where only those who are logged in and are logged in had access to comment e.g. the recipe pages. They should also be able to delete their comments when they are logged in.
 
-##### Mål för detta seminarium:
-• Lära sig PHP. \
-• Lär sig att använda PHP för server-side programmering.
+##### Objectives for this seminar:
+• Learn to use PHP for server-side programming.
 
 ### Seminar 3
 The tasks of this seminar is to choose between the MVC architecture without a framework or a PHP framework. It will be used for the website has been created in order to provide a more structured code that is easy to understand when you read the code. It would also have a low coupling, high cohesion and good encapsulation because it is the most sought when using the MVC, and a simple object-oriented design concept.
